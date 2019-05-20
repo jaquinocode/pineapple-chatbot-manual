@@ -1,5 +1,7 @@
 # pineapple-chatbot-manual
 
+<img src="https://i.imgur.com/j05dkHc.png" alt="drawing" width="90"/>
+
 ## What is Pineapple Chat Bot?
 Info about our project and what it does goes here.
 
