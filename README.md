@@ -7,11 +7,10 @@ Info about our project and what it does goes here.
 
 ## How to navigate this manual?
 This manual is all written and located on the 'Wiki' tab so that it is easily navigatable:
-(https://github.com/juan-aquino/pineapple-chatbot-manual/wiki)
 
 ![Wiki](https://i.imgur.com/JWiTSDH.png)
 
-Or you can click [here.]
+Or you can click [here.](https://github.com/juan-aquino/pineapple-chatbot-manual/wiki)
 
 Below is a quick table of contents for the sake of convenience.
 
