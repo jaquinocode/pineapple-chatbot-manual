@@ -6,7 +6,7 @@
 Info about our project and what it does goes here.
 
 ## How to navigate this manual?
-This manual is all written and located on the 'Wiki' tab so that it is easily navigatable:
+This manual is all written and located on the 'Wiki' tab so that it is easily navigatable. Click here:
 
 ![Wiki](https://i.imgur.com/JWiTSDH.png)
 
