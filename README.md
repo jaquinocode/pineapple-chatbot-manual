@@ -14,6 +14,9 @@ Below is a quick table of contents for the sake of convenience, but note the Wik
 
 ## Table of Contents
 table of contents goes here
+* stuff 1
+  * stuff 2
+* stuff 3
 
 ## Contributing
 If you would like to expand on this manual or edit it, you should copy or fork this repository. You'll then have a copy you can edit/play around with yourself.
