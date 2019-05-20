@@ -15,7 +15,7 @@ Or you can click [here.](https://github.com/juan-aquino/pineapple-chatbot-manual
 Below is a quick table of contents for the sake of convenience.
 
 ## Table of Contents
-Note: this list is only a rudimentary summary. The Wiki has the official Table of Contents and along with an up-to-date list of all our docs.
+Note: this list is only a rudimentary summary. The Wiki has the official Table of Contents along with an up-to-date list of all our docs.
 * stuff 1
   * stuff 2
 * stuff 3
