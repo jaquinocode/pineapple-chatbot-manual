@@ -4,7 +4,11 @@
 Info about our project and what it does goes here.
 
 ## How to navigate this manual?
-A little explanation on table of contents and how it's all on this github's wiki.
+This manual is all written and located on the 'Wiki' tab so that it is easily navigatable.
+
+![Wiki](https://i.imgur.com/JWiTSDH.png)
+
+Below is a quick table of contents for the sake of convenience, but note the Wiki has the true up-to-date list of all our docs.
 
 ## Table of Contents
 table of contents goes here
