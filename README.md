@@ -10,10 +10,10 @@ This manual is all written and located on the 'Wiki' tab so that it is easily na
 
 ![Wiki](https://i.imgur.com/JWiTSDH.png)
 
-Below is a quick table of contents for the sake of convenience, but note this is a rudimentary summary. The Wiki has the actually complete and up-to-date list of all our docs.
+Below is a quick table of contents for the sake of convenience.
 
 ## Table of Contents
-table of contents goes here
+Note: this list is only a rudimentary summary. The Wiki has the official Table of Contents and along with an up-to-date list of all our docs.
 * stuff 1
   * stuff 2
 * stuff 3
