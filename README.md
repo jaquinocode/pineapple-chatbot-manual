@@ -19,10 +19,10 @@ If you would like to expand on this manual or edit it, you should copy or fork t
 
 ## Credits
 Thanks to all the group members who made Pineapple Chat Bot happen:
-* Neil 
-* Juan
-* Calvin
-* Jesus
-* Erick
+* Neil Manimtim
+* Juan Aquino
+* Calvin Han
+* Jesus Gonzales
+* Erick Cilia
 
 And thanks to our kind liason Mike Lee and advisor Dr. Ye for their helpful suggestions and support throughout the process.
