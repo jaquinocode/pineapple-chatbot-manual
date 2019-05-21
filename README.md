@@ -12,13 +12,7 @@ This manual is all written and located on the 'Wiki' tab so that it is easily na
 
 Or you can click [here.](https://github.com/juan-aquino/pineapple-chatbot-manual/wiki)
 
-Below is a quick table of contents for the sake of convenience.
-
-## Table of Contents
-Note: this list is only a rudimentary summary. The Wiki has the official Table of Contents along with an up-to-date list of all our docs.
-* stuff 1
-  * stuff 2
-* stuff 3
+There you will see a Table of Contents and the info you'll need to get started.
 
 ## Contributing
 If you would like to expand on this manual or edit it, you should copy or fork this repository. You'll then have a copy you can edit/play around with yourself.
